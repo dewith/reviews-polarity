@@ -71,7 +71,7 @@ It should be noted that in both models the overfit to the data was very well con
 # Next steps
 [(Back to top)](#table-of-contents)
 
-The Neural Network still has room for improvement: it is possible to test pre-penetrated models, make a more exhaustive exploration of hyperparameters or use corpus-trained embeddings in Spanish.
+The Neural Network still has room for improvement: it is possible to test pre-trained models, make a more exhaustive exploration of hyperparameters or use corpus-trained embeddings in Spanish.
 
 Another option to improve the current project would be include the data about the category of the product or its price. 
 
