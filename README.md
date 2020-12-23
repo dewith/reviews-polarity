@@ -33,7 +33,7 @@ The importance of customer satisfaction is that it helps us to know the likeliho
 
 In the present project we will try to improve the accuracy obtained in the previous project, in which some traditional machine learning techniques were tested. However, the literature points out that some neural network architectures work very well for natural language processing. Therefore the following **hypothesis** is raised: 
 
-    Will a neural network wiht LSTM architecture improve the accuracy against a Linear SVC model with the current data?
+> Will a neural network wiht LSTM architecture improve the accuracy against a Linear SVC model with the current data?
 
 ## Methods used
 * Corpus preprocessing 
